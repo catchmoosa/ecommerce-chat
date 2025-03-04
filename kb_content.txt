@@ -1,36 +1,443 @@
-Product Information:
-- UltraPhone X: $799, available in Black, Silver, and Blue
-- PowerBook Pro: 15.6" Retina display, 512GB SSD, 16GB RAM, Intel i7, $1299, available in Space Gray and Silver
-- SmartWatch Elite: Available in Black, White, and Red, limited stock
-- AudioPods Max: Noise cancellation, 24-hour battery life, touch controls
-- HomeAssist Speaker: Smart home integration, voice control, available in Black and White
+# PRODUCT CATALOG
 
-Shipping Policy:
+## LAPTOPS
+
+### UltraBook Air
+- **Processor:** Intel Core i5-1335U
+- **Display:** 13.3" IPS, 2560x1600, 60Hz
+- **RAM:** 16GB LPDDR5
+- **Storage:** 512GB NVMe SSD
+- **Graphics:** Intel Iris Xe Graphics
+- **Battery:** Up to 15 hours
+- **Ports:** 2x Thunderbolt 4, 1x USB-A, headphone jack
+- **Weight:** 2.5 lbs
+- **Price:** $999
+
+### PowerBook Pro Max
+- **Processor:** Intel Core i9-13900HX
+- **Display:** 17" Mini-LED, 3840x2400, 120Hz
+- **RAM:** 64GB DDR5
+- **Storage:** 2TB NVMe SSD
+- **Graphics:** NVIDIA GeForce RTX 4080
+- **Battery:** Up to 8 hours
+- **Ports:** 2x Thunderbolt 4, 3x USB-A, HDMI 2.1, SD card reader, ethernet
+- **Weight:** 6.5 lbs
+- **Price:** $2999
+
+### FlexBook 360
+- **Processor:** AMD Ryzen 7 7730U
+- **Display:** 14" OLED Touchscreen, 2880x1800, 90Hz
+- **RAM:** 16GB DDR4
+- **Storage:** 1TB NVMe SSD
+- **Graphics:** AMD Radeon Graphics
+- **Battery:** Up to 12 hours
+- **Ports:** 2x USB-C, 1x USB-A, HDMI, headphone jack
+- **Weight:** 3.3 lbs
+- **Price:** $1299
+
+### GameMaster GX
+- **Processor:** Intel Core i7-13700H
+- **Display:** 15.6" IPS, 1920x1080, 165Hz
+- **RAM:** 32GB DDR5
+- **Storage:** 1TB NVMe SSD
+- **Graphics:** NVIDIA GeForce RTX 4060
+- **Battery:** Up to 6 hours
+- **Ports:** 1x Thunderbolt 4, 3x USB-A, HDMI 2.1, ethernet
+- **Weight:** 5.5 lbs
+- **Price:** $1599
+
+### EduBook Scholar
+- **Processor:** Intel Celeron N4500
+- **Display:** 11.6" IPS, 1366x768, 60Hz
+- **RAM:** 8GB DDR4
+- **Storage:** 256GB SSD
+- **Graphics:** Intel UHD Graphics
+- **Battery:** Up to 10 hours
+- **Ports:** 2x USB-A, HDMI, SD card reader, headphone jack
+- **Weight:** 2.8 lbs
+- **Price:** $399
+
+### CreatorPro Studio
+- **Processor:** AMD Ryzen 9 7940HS
+- **Display:** 16" OLED, 3840x2400, 120Hz, 100% DCI-P3
+- **RAM:** 32GB LPDDR5
+- **Storage:** 2TB NVMe SSD
+- **Graphics:** NVIDIA GeForce RTX 4070
+- **Battery:** Up to 9 hours
+- **Ports:** 2x USB-C, 2x USB-A, HDMI 2.1, SD card reader
+- **Weight:** 4.5 lbs
+- **Price:** $2199
+
+### TravelMate Go
+- **Processor:** Qualcomm Snapdragon 8cx Gen 3
+- **Display:** 13.3" IPS, 1920x1080, 60Hz
+- **RAM:** 16GB LPDDR4X
+- **Storage:** 512GB NVMe SSD
+- **Graphics:** Qualcomm Adreno GPU
+- **Battery:** Up to 18 hours, cellular connectivity
+- **Ports:** 2x USB-C, headphone jack, SIM card slot
+- **Weight:** 2.7 lbs
+- **Price:** $1199
+
+### OfficeSuite Pro
+- **Processor:** Intel Core i7-1355U
+- **Display:** 15.6" IPS, 1920x1080, 60Hz
+- **RAM:** 32GB DDR4
+- **Storage:** 1TB NVMe SSD
+- **Graphics:** Intel Iris Xe Graphics
+- **Battery:** Up to 10 hours
+- **Ports:** 1x Thunderbolt 4, 3x USB-A, HDMI, Ethernet, Docking connector
+- **Weight:** 4.0 lbs
+- **Price:** $1399
+
+### MiniBook Nano
+- **Processor:** Intel Pentium Silver N6000
+- **Display:** 10.1" IPS Touchscreen, 1920x1200, 60Hz
+- **RAM:** 16GB LPDDR4
+- **Storage:** 512GB SSD
+- **Graphics:** Intel UHD Graphics
+- **Battery:** Up to 12 hours
+- **Ports:** 1x USB-C, 1x USB-A, Micro HDMI, headphone jack
+- **Weight:** 1.8 lbs
+- **Price:** $699
+
+### Zenith Laptop X
+- **Processor:** Intel Core i9-14900HX
+- **Display:** 17" IPS, 3840x2400, 240Hz
+- **RAM:** 64GB DDR5
+- **Storage:** 4TB NVMe SSD
+- **Graphics:** NVIDIA GeForce RTX 4090
+- **Battery:** Up to 7 hours, liquid cooling
+- **Ports:** 2x Thunderbolt 5, 3x USB-A, HDMI 2.1, ethernet, SD card reader
+- **Weight:** 7.0 lbs
+- **Price:** $3999
+
+## PHONES
+
+### UltraPhone X Pro
+- **Processor:** Snapdragon 8 Gen 3
+- **Display:** 6.8" AMOLED, 120Hz, 3200x1440
+- **Camera:** 50MP (main), 48MP (ultrawide), 12MP (telephoto, 5x optical)
+- **RAM/Storage:** 16GB / 1TB
+- **Battery:** 5000mAh, 100W fast charging
+- **Price:** $1299
+
+### SmartPhone Lite
+- **Processor:** MediaTek Dimensity 700
+- **Display:** 6.5" LCD, 90Hz, 1600x720
+- **Camera:** 48MP (main), 8MP (ultrawide), 2MP (macro)
+- **RAM/Storage:** 4GB / 128GB
+- **Battery:** 5000mAh, 18W fast charging
+- **Price:** $249
+
+### GamePhone Z
+- **Processor:** Snapdragon 8 Gen 3 (overclocked)
+- **Display:** 6.7" AMOLED, 165Hz, 2400x1080
+- **Camera:** 64MP (main), 12MP (ultrawide), 5MP (macro)
+- **RAM/Storage:** 18GB / 512GB
+- **Battery:** 6000mAh, 120W fast charging, liquid cooling
+- **Price:** $999
+
+### PhotoPhone Vision
+- **Processor:** Google Tensor G4
+- **Display:** 6.6" OLED, 120Hz, 2800x1260
+- **Camera:** 108MP (main), 64MP (ultrawide), 48MP (telephoto, 10x optical)
+- **RAM/Storage:** 12GB / 256GB
+- **Battery:** 4800mAh, 30W fast charging
+- **Price:** $899
+
+### SecurePhone Vault
+- **Processor:** Secure Enclave Chip + Custom OS
+- **Display:** 6.4" AMOLED, 90Hz, 2400x1080
+- **Camera:** 12MP (main), 12MP (ultrawide)
+- **RAM/Storage:** 8GB / 256GB (encrypted)
+- **Battery:** 4500mAh, 25W fast charging
+- **Price:** $1100
+
+### DuraPhone Active
+- **Processor:** MediaTek Helio G99
+- **Display:** 6.6" IPS, 60hz, 2400x1080
+- **Camera:** 64MP (main), 8MP (ultrawide), 2MP (depth)
+- **RAM/Storage:** 6GB / 128GB
+- **Battery:** 7000mAh, 33W fast charging, IP69K rating
+- **Price:** $499
+
+### FoldPhone Flex
+- **Processor:** Snapdragon 8 Gen 3 Fold Edition
+- **Display:** 7.6" Foldable AMOLED, 120Hz, 2208x1768 (inner), 6.2" AMOLED (outer)
+- **Camera:** 50MP (main), 12MP (ultrawide), 10MP (telephoto)
+- **RAM/Storage:** 12GB / 512GB
+- **Battery:** 4400mAh, 45W fast charging
+- **Price:** $1799
+
+### MaxiPhone Plus
+- **Processor:** A18 Bionic
+- **Display:** 6.9" Super Retina XDR, 120Hz, 2796x1290
+- **Camera:** 48MP (main), 12MP (ultrawide), 12MP (telephoto)
+- **RAM/Storage:** 8GB / 512GB
+- **Battery:** 5200mAh, 30W fast charging
+- **Price:** $1399
+
+### AudioPhone Sonic
+- **Processor:** Snapdragon 7 Gen 3
+- **Display:** 6.6" AMOLED, 120Hz, 2400x1080
+- **Camera:** 50MP (main), 8MP (ultrawide), 2MP (depth)
+- **RAM/Storage:** 8GB / 256GB, dedicated audio chip, dual stereo speakers
+- **Battery:** 5000mAh, 65W fast charging
+- **Price:** $699
+
+### GlobalPhone Roam
+- **Processor:** MediaTek Dimensity 8200
+- **Display:** 6.7" AMOLED, 120Hz, 2400x1080
+- **Camera:** 64MP (main), 8MP (ultrawide), 5MP (macro)
+- **RAM/Storage:** 8GB / 256GB, Dual physical sim slots, and esim
+- **Battery:** 5000mAh, 45W fast charging
+- **Price:** $599
+
+## WATCHES
+
+### SmartWatch Elite Pro
+- **Processor:** Dual-core, custom chipset
+- **Display:** 1.9" AMOLED, always-on
+- **Sensors:** ECG, SpO2, heart rate, GPS, altimeter
+- **Battery:** 48 hours, wireless charging
+- **Price:** $449
+
+### FitnessWatch Active
+- **Processor:** Single-core, low power
+- **Display:** 1.6" LCD
+- **Sensors:** Heart rate, GPS, accelerometer
+- **Battery:** 7 days, magnetic charging
+- **Price:** $149
+
+### ClassicWatch Time
+- **Processor:** Ultra-low power microcontroller
+- **Display:** 1.3" E-ink
+- **Sensors:** Accelerometer
+- **Battery:** 30 days, coin cell
+- **Price:** $199
+
+### SportWatch Pulse
+- **Processor:** Dual Core, GPS optimized
+- **Display:** 1.8" AMOLED, highly durable glass
+- **Sensors:** Heart rate, GPS, barometer, altimeter, accelerometer
+- **Battery:** 60 Hours, magnetic charging
+- **Price:** $399
+
+### LuxuryWatch Aura
+- **Processor:** Dual core, high efficiency
+- **Display:** 1.7" Sapphire crystal AMOLED
+- **Sensors:** Heart rate, GPS, accelerometer
+- **Battery:** 40 hours, wireless charging
+- **Price:** $999
+
+### KidsWatch Connect
+- **Processor:** Single core, low power
+- **Display:** 1.4" LCD, durable plastic
+- **Sensors:** GPS, accelerometer
+- **Battery:** 2 days, magnetic charging
+- **Price:** $99
+
+### DivingWatch Depth
+- **Processor:** Dual core, pressure optimized
+- **Display:** 1.9" OLED, high visibility
+- **Sensors:** Depth sensor, water temperature, GPS, compass
+- **Battery:** 72 Hours, magnetic charging
+- **Price:** $599
+
+### PilotWatch Sky
+- **Processor:** Dual core, aviation optimized
+- **Display:** 1.8" LCD, high contrast
+- **Sensors:** Altimeter, barometer, compass, GPS
+- **Battery:** 50 Hours, magnetic charging
+- **Price:** $499
+
+### HealthWatch Vital
+- **Processor:** Dual Core, medical grade sensors
+- **Display:** 1.7" AMOLED, high resolution
+- **Sensors:** ECG, SpO2, Blood pressure, heart rate, temperature
+- **Battery:** 48 Hours, wireless charging
+- **Price:** $699
+
+### TacticalWatch Recon
+- **Processor:** Dual-core, military-grade chipset
+- **Display:** 1.8" MIP (Memory-in-Pixel), sunlight-readable
+- **Sensors:** GPS, compass, altimeter, barometer, accelerometer, heart rate
+- **Battery:** 14 days, magnetic charging
+- **Price:** $499
+
+## EARPHONES
+
+### AudioPods Max Pro
+- **Drivers:** 11mm dynamic drivers
+- **Bluetooth:** 5.3, LDAC, AAC, SBC
+- **ANC:** Adaptive active noise cancellation, transparency mode
+- **Battery:** 8 hours (earbuds), 32 hours (case), wireless charging
+- **Price:** $299
+
+### TravelBuds Go
+- **Drivers:** 8mm dynamic drivers
+- **Bluetooth:** 5.2, AAC, SBC
+- **ANC:** Noise isolation
+- **Battery:** 6 hours (earbuds), 24 hours (case), USB-C charging
+- **Price:** $79
+
+### GameBuds Elite
+- **Drivers:** 10mm graphene drivers
+- **Bluetooth:** 5.3, low-latency mode
+- **ANC:** Passive noise cancellation
+- **Battery:** 5 hours (earbuds), 20 hours (case), USB-C charging
+- **Price:** $149
+
+### StudioBuds Pro
+- **Drivers:** Balanced armature drivers
+- **Bluetooth:** 5.3, aptX HD, LDAC
+- **ANC:** Passive noise cancellation, studio-grade sound
+- **Battery:** 7 hours (earbuds), 28 hours (case), USB-C charging
+- **Price:** $349
+
+### SportBuds Active
+- **Drivers:** 9mm dynamic drivers, sweat-resistant
+- **Bluetooth:** 5.2, AAC, SBC
+- **ANC:** Passive noise cancellation
+- **Battery:** 7 hours (earbuds), 28 hours (case), USB-C charging
+- **Price:** $129
+
+### SleepBuds Quiet
+- **Drivers:** Ultra-small balanced armature drivers
+- **Bluetooth:** 5.0, low-power mode
+- **ANC:** Noise masking, sleep tracking
+- **Battery:** 10 hours (earbuds), charging case not applicable
+- **Price:** $199
+
+### OpenBuds Air
+- **Drivers:** Bone conduction transducers
+- **Bluetooth:** 5.3, AAC, SBC
+- **ANC:** Open-ear design
+- **Battery:** 8 hours, USB-C charging
+- **Price:** $179
+
+### TranslatorBuds Global
+- **Drivers:** 9mm dynamic drivers
+- **Bluetooth:** 5.3, multiple language support
+- **ANC:** Real-time translation, noise cancellation
+- **Battery:** 6 hours (earbuds), 24 hours (case), USB-C charging
+- **Price:** $249
+
+### ClassicBuds Wired
+- **Drivers:** 10mm dynamic drivers, oxygen free copper cable
+- **Connection:** 3.5mm jack
+- **ANC:** Passive noise isolation
+- **Battery:** N/A
+- **Price:** $69
+
+### ValueBuds Basic
+- **Drivers:** 8mm dynamic drivers
+- **Bluetooth:** 5.0, SBC
+- **ANC:** None
+- **Battery:** 4 hours (earbuds), 12 hours (case), Micro USB charging
+- **Price:** $29
+
+## SPEAKERS
+
+### HomeAssist Speaker Pro
+- **Drivers:** 4" woofer, dual 1" tweeters
+- **Connectivity:** Wi-Fi, Bluetooth 5.3, Chromecast, AirPlay 2
+- **Features:** Voice control, smart home hub, spatial audio
+- **Power:** AC powered
+- **Price:** $399
+
+### PartySpeaker XL
+- **Drivers:** Dual 8" woofers, dual 3" tweeters
+- **Connectivity:** Bluetooth 5.2, USB, AUX, microphone input
+- **Features:** Bass boost, LED lighting, karaoke mode, IPX5 water resistance
+- **Battery:** 24 hours, AC and DC power
+- **Price:** $299
+
+### TravelSpeaker Mini
+- **Drivers:** 2" full-range driver
+- **Connectivity:** Bluetooth 5.3, AUX
+- **Features:** IPX7 waterproof, ultra-portable, carabiner clip
+- **Battery:** 12 hours, USB-C charging
+- **Price:** $79
+
+### StudioMonitor Pro
+- **Drivers:** 5" woofer, 1" silk dome tweeter
+- **Connectivity:** XLR, TRS, RCA inputs
+- **Features:** Flat frequency response, rear porting, adjustable EQ
+- **Power:** AC powered
+- **Price:** $499 (pair)
+
+### Soundbar Surround Max
+- **Drivers:** Multiple drivers, wireless subwoofer
+- **Connectivity:** HDMI eARC, optical, Bluetooth 5.2
+- **Features:** Dolby Atmos, DTS:X, virtual surround sound
+- **Power:** AC powered
+- **Price:** $599
+
+### Bookshelf Speakers Duo
+- **Drivers:** 4" woofer, 1" soft dome tweeter
+- **Connectivity:** Passive speaker terminals
+- **Features:** High-fidelity stereo, rear porting, wood finish
+- **Power:** Passive speakers
+- **Price:** $249 (pair)
+
+### Portable Bluetooth Speaker Plus
+- **Drivers:** Dual 2.5" drivers, passive radiators
+- **Connectivity:** Bluetooth 5.3, AUX
+- **Features:** Balanced sound, IPX6 water resistance, durable design
+- **Battery:** 18 hours, USB-C charging
+- **Price:** $129
+
+### Waterproof Speaker Aqua
+- **Drivers:** 3" full-range driver
+- **Connectivity:** Bluetooth 5.2
+- **Features:** Floats, IPX8 waterproof, 360-degree sound
+- **Battery:** 15 hours, USB-C charging
+- **Price:** $99
+
+### Retro Speaker Vinyl
+- **Drivers:** 3" full-range driver
+- **Connectivity:** Bluetooth 5.0, AUX
+- **Features:** Vinyl-inspired design, analog controls, warm sound
+- **Power:** AC powered
+- **Price:** $179
+
+### Conference Speaker Clear
+- **Drivers:** Full-range driver, omnidirectional microphone array
+- **Connectivity:** Bluetooth 5.3, USB-C
+- **Features:** Noise cancellation, echo reduction, 360-degree pickup
+- **Battery:** 10 hours, USB-C charging
+- **Price:** $199
+
+# STORE POLICIES
+
+## Shipping Policy
 - Standard shipping: 3-5 business days, $4.99
 - Express shipping: 1-2 business days, $12.99
 - Free standard shipping on orders over $50
 - International shipping available to select countries
 - No shipping to P.O. boxes
 
-Return Policy:
+## Return Policy
 - 30-day return window
 - Unused items in original packaging: full refund
 - Opened items: 15% restocking fee may apply
 - Free return shipping for defective products
 
-Warranty Information:
+## Warranty Information
 - All electronics: 1-year limited warranty
 - Warranty doesn't cover accidental damage or water damage
 - Proof of purchase required for warranty service
 
-Payment Options:
+## Payment Options
 - All major credit cards accepted
 - PaySecure digital wallet
 - Store credit/gift cards
 - Installment plans available for purchases over $300
 - No checks or money orders accepted
 
-Privacy Policy:
+## Privacy Policy
 - Customer information is never sold to third parties
 - Opt-in required for marketing communications
 - Data is stored securely using industry-standard encryption
