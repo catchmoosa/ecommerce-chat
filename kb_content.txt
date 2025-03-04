@@ -1,8 +1,10 @@
 # PRODUCT CATALOG
 
+
 ## LAPTOPS
 
 ### UltraBook Air
+- **Color:** Silver
 - **Processor:** Intel Core i5-1335U
 - **Display:** 13.3" IPS, 2560x1600, 60Hz
 - **RAM:** 16GB LPDDR5
@@ -14,6 +16,7 @@
 - **Price:** $999
 
 ### PowerBook Pro Max
+- **Color:** Space Gray
 - **Processor:** Intel Core i9-13900HX
 - **Display:** 17" Mini-LED, 3840x2400, 120Hz
 - **RAM:** 64GB DDR5
@@ -25,6 +28,7 @@
 - **Price:** $2999
 
 ### FlexBook 360
+- **Color:** Rose Gold
 - **Processor:** AMD Ryzen 7 7730U
 - **Display:** 14" OLED Touchscreen, 2880x1800, 90Hz
 - **RAM:** 16GB DDR4
@@ -36,6 +40,7 @@
 - **Price:** $1299
 
 ### GameMaster GX
+- **Color:** Black with RGB accents
 - **Processor:** Intel Core i7-13700H
 - **Display:** 15.6" IPS, 1920x1080, 165Hz
 - **RAM:** 32GB DDR5
@@ -47,6 +52,7 @@
 - **Price:** $1599
 
 ### EduBook Scholar
+- **Color:** Blue
 - **Processor:** Intel Celeron N4500
 - **Display:** 11.6" IPS, 1366x768, 60Hz
 - **RAM:** 8GB DDR4
@@ -58,6 +64,7 @@
 - **Price:** $399
 
 ### CreatorPro Studio
+- **Color:** Graphite
 - **Processor:** AMD Ryzen 9 7940HS
 - **Display:** 16" OLED, 3840x2400, 120Hz, 100% DCI-P3
 - **RAM:** 32GB LPDDR5
@@ -69,6 +76,7 @@
 - **Price:** $2199
 
 ### TravelMate Go
+- **Color:** Gold
 - **Processor:** Qualcomm Snapdragon 8cx Gen 3
 - **Display:** 13.3" IPS, 1920x1080, 60Hz
 - **RAM:** 16GB LPDDR4X
@@ -80,6 +88,7 @@
 - **Price:** $1199
 
 ### OfficeSuite Pro
+- **Color:** Dark Gray
 - **Processor:** Intel Core i7-1355U
 - **Display:** 15.6" IPS, 1920x1080, 60Hz
 - **RAM:** 32GB DDR4
@@ -91,6 +100,7 @@
 - **Price:** $1399
 
 ### MiniBook Nano
+- **Color:** White
 - **Processor:** Intel Pentium Silver N6000
 - **Display:** 10.1" IPS Touchscreen, 1920x1200, 60Hz
 - **RAM:** 16GB LPDDR4
@@ -102,6 +112,7 @@
 - **Price:** $699
 
 ### Zenith Laptop X
+- **Color:** Matte Black
 - **Processor:** Intel Core i9-14900HX
 - **Display:** 17" IPS, 3840x2400, 240Hz
 - **RAM:** 64GB DDR5
@@ -115,6 +126,7 @@
 ## PHONES
 
 ### UltraPhone X Pro
+- **Color:** Midnight Blue
 - **Processor:** Snapdragon 8 Gen 3
 - **Display:** 6.8" AMOLED, 120Hz, 3200x1440
 - **Camera:** 50MP (main), 48MP (ultrawide), 12MP (telephoto, 5x optical)
@@ -123,6 +135,7 @@
 - **Price:** $1299
 
 ### SmartPhone Lite
+- **Color:** Mint Green
 - **Processor:** MediaTek Dimensity 700
 - **Display:** 6.5" LCD, 90Hz, 1600x720
 - **Camera:** 48MP (main), 8MP (ultrawide), 2MP (macro)
@@ -131,6 +144,7 @@
 - **Price:** $249
 
 ### GamePhone Z
+- **Color:** Red with Black accents
 - **Processor:** Snapdragon 8 Gen 3 (overclocked)
 - **Display:** 6.7" AMOLED, 165Hz, 2400x1080
 - **Camera:** 64MP (main), 12MP (ultrawide), 5MP (macro)
@@ -139,6 +153,7 @@
 - **Price:** $999
 
 ### PhotoPhone Vision
+- **Color:** Graphite
 - **Processor:** Google Tensor G4
 - **Display:** 6.6" OLED, 120Hz, 2800x1260
 - **Camera:** 108MP (main), 64MP (ultrawide), 48MP (telephoto, 10x optical)
@@ -147,6 +162,7 @@
 - **Price:** $899
 
 ### SecurePhone Vault
+- **Color:** Black
 - **Processor:** Secure Enclave Chip + Custom OS
 - **Display:** 6.4" AMOLED, 90Hz, 2400x1080
 - **Camera:** 12MP (main), 12MP (ultrawide)
@@ -155,6 +171,7 @@
 - **Price:** $1100
 
 ### DuraPhone Active
+- **Color:** Orange
 - **Processor:** MediaTek Helio G99
 - **Display:** 6.6" IPS, 60hz, 2400x1080
 - **Camera:** 64MP (main), 8MP (ultrawide), 2MP (depth)
@@ -163,6 +180,7 @@
 - **Price:** $499
 
 ### FoldPhone Flex
+- **Color:** Silver
 - **Processor:** Snapdragon 8 Gen 3 Fold Edition
 - **Display:** 7.6" Foldable AMOLED, 120Hz, 2208x1768 (inner), 6.2" AMOLED (outer)
 - **Camera:** 50MP (main), 12MP (ultrawide), 10MP (telephoto)
@@ -171,6 +189,7 @@
 - **Price:** $1799
 
 ### MaxiPhone Plus
+- **Color:** Deep Purple
 - **Processor:** A18 Bionic
 - **Display:** 6.9" Super Retina XDR, 120Hz, 2796x1290
 - **Camera:** 48MP (main), 12MP (ultrawide), 12MP (telephoto)
@@ -179,6 +198,7 @@
 - **Price:** $1399
 
 ### AudioPhone Sonic
+- **Color:** Black
 - **Processor:** Snapdragon 7 Gen 3
 - **Display:** 6.6" AMOLED, 120Hz, 2400x1080
 - **Camera:** 50MP (main), 8MP (ultrawide), 2MP (depth)
@@ -187,6 +207,7 @@
 - **Price:** $699
 
 ### GlobalPhone Roam
+- **Color:** Blue
 - **Processor:** MediaTek Dimensity 8200
 - **Display:** 6.7" AMOLED, 120Hz, 2400x1080
 - **Camera:** 64MP (main), 8MP (ultrawide), 5MP (macro)
@@ -197,6 +218,7 @@
 ## WATCHES
 
 ### SmartWatch Elite Pro
+- **Color:** Black
 - **Processor:** Dual-core, custom chipset
 - **Display:** 1.9" AMOLED, always-on
 - **Sensors:** ECG, SpO2, heart rate, GPS, altimeter
@@ -204,6 +226,7 @@
 - **Price:** $449
 
 ### FitnessWatch Active
+- **Color:** Green
 - **Processor:** Single-core, low power
 - **Display:** 1.6" LCD
 - **Sensors:** Heart rate, GPS, accelerometer
@@ -211,6 +234,7 @@
 - **Price:** $149
 
 ### ClassicWatch Time
+- **Color:** Silver
 - **Processor:** Ultra-low power microcontroller
 - **Display:** 1.3" E-ink
 - **Sensors:** Accelerometer
@@ -218,6 +242,7 @@
 - **Price:** $199
 
 ### SportWatch Pulse
+- **Color:** Red
 - **Processor:** Dual Core, GPS optimized
 - **Display:** 1.8" AMOLED, highly durable glass
 - **Sensors:** Heart rate, GPS, barometer, altimeter, accelerometer
@@ -225,6 +250,7 @@
 - **Price:** $399
 
 ### LuxuryWatch Aura
+- **Color:** Gold
 - **Processor:** Dual core, high efficiency
 - **Display:** 1.7" Sapphire crystal AMOLED
 - **Sensors:** Heart rate, GPS, accelerometer
@@ -232,6 +258,7 @@
 - **Price:** $999
 
 ### KidsWatch Connect
+- **Color:** Blue
 - **Processor:** Single core, low power
 - **Display:** 1.4" LCD, durable plastic
 - **Sensors:** GPS, accelerometer
@@ -239,6 +266,7 @@
 - **Price:** $99
 
 ### DivingWatch Depth
+- **Color:** Black
 - **Processor:** Dual core, pressure optimized
 - **Display:** 1.9" OLED, high visibility
 - **Sensors:** Depth sensor, water temperature, GPS, compass
@@ -246,6 +274,7 @@
 - **Price:** $599
 
 ### PilotWatch Sky
+- **Color:** Gray
 - **Processor:** Dual core, aviation optimized
 - **Display:** 1.8" LCD, high contrast
 - **Sensors:** Altimeter, barometer, compass, GPS
@@ -253,6 +282,7 @@
 - **Price:** $499
 
 ### HealthWatch Vital
+- **Color:** White
 - **Processor:** Dual Core, medical grade sensors
 - **Display:** 1.7" AMOLED, high resolution
 - **Sensors:** ECG, SpO2, Blood pressure, heart rate, temperature
@@ -260,6 +290,7 @@
 - **Price:** $699
 
 ### TacticalWatch Recon
+- **Color:** Camouflage
 - **Processor:** Dual-core, military-grade chipset
 - **Display:** 1.8" MIP (Memory-in-Pixel), sunlight-readable
 - **Sensors:** GPS, compass, altimeter, barometer, accelerometer, heart rate
@@ -269,6 +300,7 @@
 ## EARPHONES
 
 ### AudioPods Max Pro
+- **Color:** White
 - **Drivers:** 11mm dynamic drivers
 - **Bluetooth:** 5.3, LDAC, AAC, SBC
 - **ANC:** Adaptive active noise cancellation, transparency mode
@@ -276,6 +308,7 @@
 - **Price:** $299
 
 ### TravelBuds Go
+- **Color:** Black
 - **Drivers:** 8mm dynamic drivers
 - **Bluetooth:** 5.2, AAC, SBC
 - **ANC:** Noise isolation
@@ -283,6 +316,7 @@
 - **Price:** $79
 
 ### GameBuds Elite
+- **Color:** Red
 - **Drivers:** 10mm graphene drivers
 - **Bluetooth:** 5.3, low-latency mode
 - **ANC:** Passive noise cancellation
@@ -290,6 +324,7 @@
 - **Price:** $149
 
 ### StudioBuds Pro
+- **Color:** Silver
 - **Drivers:** Balanced armature drivers
 - **Bluetooth:** 5.3, aptX HD, LDAC
 - **ANC:** Passive noise cancellation, studio-grade sound
@@ -297,6 +332,7 @@
 - **Price:** $349
 
 ### SportBuds Active
+- **Color:** Blue
 - **Drivers:** 9mm dynamic drivers, sweat-resistant
 - **Bluetooth:** 5.2, AAC, SBC
 - **ANC:** Passive noise cancellation
@@ -304,6 +340,7 @@
 - **Price:** $129
 
 ### SleepBuds Quiet
+- **Color:** White
 - **Drivers:** Ultra-small balanced armature drivers
 - **Bluetooth:** 5.0, low-power mode
 - **ANC:** Noise masking, sleep tracking
@@ -311,6 +348,7 @@
 - **Price:** $199
 
 ### OpenBuds Air
+- **Color:** Gray
 - **Drivers:** Bone conduction transducers
 - **Bluetooth:** 5.3, AAC, SBC
 - **ANC:** Open-ear design
@@ -318,6 +356,7 @@
 - **Price:** $179
 
 ### TranslatorBuds Global
+- **Color:** Black
 - **Drivers:** 9mm dynamic drivers
 - **Bluetooth:** 5.3, multiple language support
 - **ANC:** Real-time translation, noise cancellation
@@ -325,6 +364,7 @@
 - **Price:** $249
 
 ### ClassicBuds Wired
+- **Color:** Black
 - **Drivers:** 10mm dynamic drivers, oxygen free copper cable
 - **Connection:** 3.5mm jack
 - **ANC:** Passive noise isolation
@@ -332,6 +372,7 @@
 - **Price:** $69
 
 ### ValueBuds Basic
+- **Color:** White
 - **Drivers:** 8mm dynamic drivers
 - **Bluetooth:** 5.0, SBC
 - **ANC:** None
@@ -341,6 +382,7 @@
 ## SPEAKERS
 
 ### HomeAssist Speaker Pro
+- **Color:** Black
 - **Drivers:** 4" woofer, dual 1" tweeters
 - **Connectivity:** Wi-Fi, Bluetooth 5.3, Chromecast, AirPlay 2
 - **Features:** Voice control, smart home hub, spatial audio
@@ -348,6 +390,7 @@
 - **Price:** $399
 
 ### PartySpeaker XL
+- **Color:** Black
 - **Drivers:** Dual 8" woofers, dual 3" tweeters
 - **Connectivity:** Bluetooth 5.2, USB, AUX, microphone input
 - **Features:** Bass boost, LED lighting, karaoke mode, IPX5 water resistance
@@ -355,6 +398,7 @@
 - **Price:** $299
 
 ### TravelSpeaker Mini
+- **Color:** Blue
 - **Drivers:** 2" full-range driver
 - **Connectivity:** Bluetooth 5.3, AUX
 - **Features:** IPX7 waterproof, ultra-portable, carabiner clip
@@ -362,6 +406,7 @@
 - **Price:** $79
 
 ### StudioMonitor Pro
+- **Color:** Black
 - **Drivers:** 5" woofer, 1" silk dome tweeter
 - **Connectivity:** XLR, TRS, RCA inputs
 - **Features:** Flat frequency response, rear porting, adjustable EQ
@@ -369,6 +414,7 @@
 - **Price:** $499 (pair)
 
 ### Soundbar Surround Max
+- **Color:** Black
 - **Drivers:** Multiple drivers, wireless subwoofer
 - **Connectivity:** HDMI eARC, optical, Bluetooth 5.2
 - **Features:** Dolby Atmos, DTS:X, virtual surround sound
@@ -376,6 +422,7 @@
 - **Price:** $599
 
 ### Bookshelf Speakers Duo
+- **Color:** Wood finish
 - **Drivers:** 4" woofer, 1" soft dome tweeter
 - **Connectivity:** Passive speaker terminals
 - **Features:** High-fidelity stereo, rear porting, wood finish
@@ -383,6 +430,7 @@
 - **Price:** $249 (pair)
 
 ### Portable Bluetooth Speaker Plus
+- **Color:** Gray
 - **Drivers:** Dual 2.5" drivers, passive radiators
 - **Connectivity:** Bluetooth 5.3, AUX
 - **Features:** Balanced sound, IPX6 water resistance, durable design
@@ -390,6 +438,7 @@
 - **Price:** $129
 
 ### Waterproof Speaker Aqua
+- **Color:** Blue
 - **Drivers:** 3" full-range driver
 - **Connectivity:** Bluetooth 5.2
 - **Features:** Floats, IPX8 waterproof, 360-degree sound
@@ -397,6 +446,7 @@
 - **Price:** $99
 
 ### Retro Speaker Vinyl
+- **Color:** Brown
 - **Drivers:** 3" full-range driver
 - **Connectivity:** Bluetooth 5.0, AUX
 - **Features:** Vinyl-inspired design, analog controls, warm sound
@@ -404,6 +454,7 @@
 - **Price:** $179
 
 ### Conference Speaker Clear
+- **Color:** Black
 - **Drivers:** Full-range driver, omnidirectional microphone array
 - **Connectivity:** Bluetooth 5.3, USB-C
 - **Features:** Noise cancellation, echo reduction, 360-degree pickup
@@ -443,3 +494,9 @@
 - Data is stored securely using industry-standard encryption
 - Customers can request deletion of personal information
 - See full privacy policy at company website
+
+
+
+
+
+
